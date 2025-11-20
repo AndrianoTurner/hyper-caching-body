@@ -1,6 +1,7 @@
 [package]
 name = "hyper-caching-body"
 authors = ["AndrianoTurner <danya.shibaev@gmail.com>"]
+homepage = "https://github.com/AndrianoTurner/hyper-caching-body"
 description = "Caching body type for hyper"
 readme = "README.md"
 license = "MIT"

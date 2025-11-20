@@ -5,6 +5,9 @@ Provides a simple struct to cache an incoming body "in-flight"
 Useful if you want to cache a body without consuming while returning it to a client
 
 [![crates.io][crates-badge]][crates-url]
+[![documentation][docs-badge]][docs-url]
+[![MIT License][mit-badge]][mit-url]
+[![CI Status][ci-badge]][ci-url]
 
 [crates-badge]: https://img.shields.io/crates/v/http-caching-body.svg
 [crates-url]: https://crates.io/crates/http-caching-body
